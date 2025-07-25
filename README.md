@@ -1,6 +1,7 @@
 # 🧢👕 Merk-T
 
-Descripción breve del proyecto, qué hace y cuál es su propósito.
+
+Es una tienda online innovadora donde tú eres el diseñador. Ofrecemos ropa personalizable de alta calidad que se adapta a tu estilo y personalidad. Desde camisetas, sudaderas y accesorios, hasta prendas exclusivas que puedes crear con tus propios diseños, colores y textos.
 
 ---
 
@@ -35,5 +36,7 @@ ng serve
 # Compila el proyecto para producción
 ng build --prod
 
-## Autor 
+---
+
+## 💻 Autor 
 Desarrollado por Marc Bastias Arroyo

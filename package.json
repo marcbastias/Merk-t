@@ -37,5 +37,10 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "~5.7.2"
-  }
+  },
+  "description": "Es una tienda online innovadora donde tú eres el diseñador. Ofrecemos ropa personalizable de alta calidad que se adapta a tu estilo y personalidad. Desde camisetas, sudaderas y accesorios, hasta prendas exclusivas que puedes crear con tus propios diseños, colores y textos.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

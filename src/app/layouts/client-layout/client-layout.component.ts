@@ -2,12 +2,10 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
-  selector: 'app-root',
+  selector: 'app-client-layout',
   imports: [RouterOutlet],
-  templateUrl: './app.component.html',
+  templateUrl: './client-layout.component.html',
 })
-export class AppComponent {
+export class ClientLayoutComponent {
 
-
-  title = 'Merk-t';
 }

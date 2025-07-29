@@ -1,13 +1,13 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { HeaderComponent } from '../../layouts/header/header.component';
-import { HeroPersonalizationComponent } from '../../shared/components/hero-personalization/hero-personalization.component';
+import { HeroPersonalizationComponent } from '../../shared/FRONT/components/hero-personalization/hero-personalization.component';
+import { ProductPersonalizationComponent } from '../../shared/FRONT/components/product-personalization/product-personalization.component';
+
 
 @Component({
   selector: 'app-home',
-  imports: [RouterOutlet,HeaderComponent, HeroPersonalizationComponent],
+  imports: [ HeroPersonalizationComponent, ProductPersonalizationComponent],
   templateUrl: './home-page.component.html',
-  standalone: true  
+  standalone: true
 })
 export class HomePageComponent {
 
